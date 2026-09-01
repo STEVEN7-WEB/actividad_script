@@ -1,0 +1,620 @@
+numero,numero_certificado,nombre_area,superficie_certificada_ha,municipio,estado,anio_certificacion,vigencia_anio,tipo_propietario,region_conanp
+1,CONANP-01/2002,Parque Ecológico Jaguaroundi,960.734884,Coatzacoalcos,Veracruz,2002,99.0,Empresa de Participación Estatal,Planicie Costera y Golfo de México
+2,CONANP-02/2003,Rancho La Asunción con el Area Natural Protegida Yu-Balcah,572.0,Tacotalpa,Tabasco,2003,,Persona física,Planicie Costera y Golfo de México
+3,CONANP-10/2004,Cerro Chango,700.0,Santiago Jocotepec,Oaxaca,2004,,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+4,CONANP-13/2004,Área de Conservación San Pedro Tlatepusco,5050.0,San Felipe Usila,Oaxaca,2004,25.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+5,CONANP-14/2004,Área de Conservación Santiago Tlatepusco,4300.0,San Felipe Usila,Oaxaca,2004,25.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+6,CONANP-15/2004,Área de Conservación San Antonio del Barrio,1500.0,San Felipe Usila,Oaxaca,2004,25.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+7,CONANP-16/2004,Área de Conservación la Tierra del Faisán,9670.0,San Felipe Usila,Oaxaca,2004,25.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+8,CONANP-17/2005,Area de Preservación de la Naturaleza y Zona de Usos Múltiples para el Ecoturismo Kolijké,26.0,Zihuatehutla,Puebla,2005,,Persona física,Planicie Costera y Golfo de México
+9,CONANP-24/2005,Rancho Media Luna,15000.0,Ocampo,Coahuila,2005,50.0,Persona física,Noreste y Sierra Madre Oriental
+10,CONANP-25/2005,Cacalotepec fracción primera y fracción segunda,36.478,Xicotepec de Juárez,Puebla,2005,50.0,Persona física,Planicie Costera y Golfo de México
+11,CONANP-26/2005,Área Comunitaria Protegida San Isidro,5308.0,San Pedro Huamelula,Oaxaca,2005,,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+12,CONANP-29/2006,Zona de Reserva Ecológica Comunal de San Juan Teponaxtla,4000.0,San Juan Tepehuxila,Oaxaca,2006,,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+13,CONANP-30-BIS 1/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 1Z-1 P1/1,2.632599,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+14,CONANP-30-BIS 2/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 2Z-1 P1/1,7.358554,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+15,CONANP-30-BIS 3/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 3Z-1 P1/1,4.500508,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+16,CONANP-30-BIS 4/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 4Z-1 P1/1,9.99061,Amatlan de Reyes,Veracruz,2006,30.0,Ejido(Parcela),Planicie Costera y Golfo de México
+17,CONANP-30-BIS 5/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 5Z-1 P1/1,2.889649,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+18,CONANP-30-BIS 6/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 6Z-1 P1/1E,1.385399,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+19,CONANP-30-BIS 7/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 8Z-1 P1/1E,0.937231,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+20,CONANP-30-BIS 8/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 9 Z-1 P1/1,8.484835,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+21,CONANP-30-BIS 9/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 10 Z-1 P1/1,7.016356,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+22,CONANP-30-BIS 10/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 11 Z-1 P1/1,8.719543,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+23,CONANP-30-BIS 11/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 12-Z-1 P1/1,1.502856,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+24,CONANP-30-BIS 12/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 13 Z-1 P1/1,5.590399,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+25,CONANP-30-BIS 13/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 15 Z-1 P1/1,1.881143,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+26,CONANP-30-BIS 14/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 17 Z P1/1,5.585348,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+27,CONANP-30-BIS 15/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 19 Z-1 P1/1,8.882243,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+28,CONANP-30-BIS 16/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 20 Z-1 P1/1,14.855768,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+29,CONANP-30-BIS 17/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 21 Z-1 P1/1,0.636371,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+30,CONANP-30-BIS 18/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 22 Z-1 P1/1,1.130807,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+31,CONANP-30-BIS 19/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 23 Z-1 P1/1,3.514964,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+32,CONANP-30-BIS 20/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 24 Z-1 P1/1,12.086967,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+33,CONANP-30-BIS 21/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 25 Z-1 P1/1,1.73916,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+34,CONANP-30-BIS 22/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 26 Z-1 P1/1,3.910833,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+35,CONANP-30-BIS 23/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 28 Z-1 P1/1,0.315574,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+36,CONANP-30-BIS 24/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 29 Z-1 P1/1,0.393579,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+37,CONANP-30-BIS 25/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 30 Z-1 P1/1,0.777222,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+38,CONANP-30-BIS 26/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 31 Z-1 P1/1,0.251224,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+39,CONANP-30-BIS 27/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 32 Z-1 P1/1,0.544401,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+40,CONANP-30-BIS 28/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 34 Z-1 P1/1,0.924576,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+41,CONANP-30-BIS 29/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 35 Z-1 P1/1,2.878738,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+42,CONANP-30-BIS 30/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 37 Z-1 P1/1,5.100669,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+43,CONANP-30-BIS 31/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 1 Z-1 P1/1,1.055822,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+44,CONANP-30-BIS 32/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 2 Z-1 P1/1,1.452494,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+45,CONANP-30-BIS 33/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 3 Z-1 P1/1,1.893981,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+46,CONANP-30-BIS 34/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 5Z-1 P1/1,0.212166,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+47,CONANP-30-BIS 35/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 6 Z-1 P1/1,0.144951,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+48,CONANP-30-BIS 36/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 7 Z-1 P1/1,9.063499,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+49,CONANP-30-BIS 37/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 9 Z-1 P1/1,11.545134,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+50,CONANP-30-BIS 38/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 12 Z-1 P1/1,2.843918,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+51,CONANP-30-BIS 39/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 15 Z-1 P1/1,5.151196,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+52,CONANP-30-BIS 40/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 18 Z-1 P1/1,2.372648,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+53,CONANP-30-BIS 41/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 20 Z-1 P1/1,0.94717,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+54,CONANP-30-BIS 42/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 25 Z-1 P1/1,0.496182,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+55,CONANP-30-BIS 43/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 28 Z-1 P1/1,0.167063,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+56,CONANP-30-BIS 44/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 29 Z-1 P1/1,0.117582,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+57,CONANP-30-BIS 45/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 31 Z-1 P1/1,0.802911,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+58,CONANP-30-BIS 46/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 32 Z-1 P1/1,1.429689,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+59,CONANP-30-BIS 47/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 33 Z-1 P1/1,1.133455,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+60,CONANP-30-BIS 48/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 34 Z-1 P1/1,1.902438,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+61,CONANP-30-BIS 49/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 37 Z-1 P1/1,0.407352,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+62,CONANP-30-BIS 50/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 38 Z-1 P1/1,0.110476,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+63,CONANP-30-BIS 51/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 39 Z-1 P1/1,2.419823,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+64,CONANP-30-BIS 52/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 40 Z-1 P1/1,3.122699,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+65,CONANP-30-BIS 53/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 41 Z-1 P1/1,0.603706,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+66,CONANP-30-BIS 54/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 42 Z-1 P1/1,2.021532,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+67,CONANP-30-BIS 55/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 47 Z-1 P/1,0.197385,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+68,CONANP-30-BIS 56/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 49 Z-1 P1/1,0.09762,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+69,CONANP-30-BIS 57/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 50 Z-1 P1/1,0.238884,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+70,CONANP-30-BIS 58/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 52 Z-1 P1/1,4.990557,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+71,CONANP-30-BIS 59/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 53 Z-1 P1/1,1.23831,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+72,CONANP-30-BIS 60/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 54 Z-1 P1/1,1.805722,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+73,CONANP-30-BIS 61/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 55 Z-1 P1/1,0.076388,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+74,CONANP-30-BIS 62/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 63 Z-1 P1/1,6.278518,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+75,CONANP-30-BIS 63/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 64 Z-1 P1/1,1.466709,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+76,CONANP-30-BIS 64/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 66 Z-1 P1/1,2.692554,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+77,CONANP-30-BIS 65/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 67 Z-1 P1/1,0.8084,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+78,CONANP-30-BIS 66/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 73 Z-1 P1/1,1.130722,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+79,CONANP-30-BIS 67/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 74 Z-1 P1/1,1.144728,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+80,CONANP-30-BIS 68/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 75 Z-1 P1/1,1.183795,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+81,CONANP-30-BIS 69/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 76 Z-1 P1/1,2.814391,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+82,CONANP-30-BIS 70/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 78 Z-1 P1/1,2.234095,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+83,CONANP-30-BIS 71/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 79 Z-1 P1/1,5.443938,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+84,CONANP-30-BIS 72/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 84 Z-1 P1/1,0.190639,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+85,CONANP-30-BIS 73/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 86 Z-1 P1/1,0.177643,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+86,CONANP-30-BIS 74/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 89 Z-1 P1/1,0.076673,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+87,CONANP-30-BIS 75/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 93 Z-1 P1/1,0.078107,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+88,CONANP-30-BIS 76/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 95 Z-1 P1/1,0.797529,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+89,CONANP-30-BIS 77/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 96 Z-1 P1/1,0.7843,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+90,CONANP-30-BIS 78/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 97 Z-1 P1/1,1.172647,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+91,CONANP-30-BIS 79/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 98 Z-1 P1/1,1.157716,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+92,CONANP-30-BIS 80/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 99 Z-1 P1/1,1.023787,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+93,CONANP-30-BIS 81/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 100 Z-1 P1/1,4.575957,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+94,CONANP-30-BIS 82/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 102 Z-1 P1/1,1.3982,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+95,CONANP-30-BIS 83/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 103 Z-1 P1/1,0.611032,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+96,CONANP-30-BIS 84/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 104 Z-1 P1/1,1.631705,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+97,CONANP-30-BIS 85/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 106 Z-1 P1/1,0.865542,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+98,CONANP-30-BIS 86/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 107 Z-1 P1/1,2.865852,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+99,CONANP-30-BIS 87/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 109 Z-1 P1/1,8.92691,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+100,CONANP-30-BIS 88/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 113 Z-1 P1/1,3.144837,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+101,CONANP-30-BIS 89/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 114 Z-1 P1/1,1.219851,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+102,CONANP-30-BIS 90/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 115 Z-1 P1/1,2.452447,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+103,CONANP-30-BIS 91/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 116 Z-1 P1/1,4.980232,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+104,CONANP-30-BIS 92/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 117 Z-1 P1/1,6.008565,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+105,CONANP-30-BIS 93/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 118 Z-1 P1/1,0.383696,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+106,CONANP-30-BIS 94/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 119 Z-1 P1/1,1.740864,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+107,CONANP-30-BIS 95/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 121 Z-1 P1/1,3.66248,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+108,CONANP-30-BIS 96/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 125 Z-1 P1/1,2.435404,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+109,CONANP-30-BIS 97/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 127 Z-1 P1/1,0.710234,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+110,CONANP-30-BIS 98/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 128 Z-1 P1/1,0.33679,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+111,CONANP-30-BIS 99/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 129 Z-1 P1/1,5.723578,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+112,CONANP-30-BIS 100/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 130 Z-1 P1/1,5.706648,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+113,CONANP-30-BIS 101/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 134 Z-1 P1/1,1.855367,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+114,CONANP-30-BIS 102/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 136 Z-1 P1/1,3.899672,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+115,CONANP-30-BIS 103/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 137 Z-1 P1/1,13.671612,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+116,CONANP-30-BIS 104/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 138 Z-1 P1/1,0.877155,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+117,CONANP-30-BIS 105/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 139 Z-1 P1/1,1.566778,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+118,CONANP-30-BIS 106/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 140 Z-1 P1/1,4.24465,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+119,CONANP-30-BIS 107/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 141 Z-1 P1/1,0.980458,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+120,CONANP-30-BIS 108/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 142 Z-1 P1/1,1.249998,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+121,CONANP-30-BIS 109/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 149 Z-1 P1/1,3.258193,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+122,CONANP-30-BIS 110/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 147 Z-1 P1/1,3.785189,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+123,CONANP-30-BIS 111/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 149 Z-1 P1/1,2.107065,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+124,CONANP-30-BIS 112/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 150 Z-1 P1/1,1.115467,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+125,CONANP-30-BIS 113/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 151 Z-1 P1/1,5.46618,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+126,CONANP-30-BIS 114/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 152 Z-1 P1/1,3.45651,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+127,CONANP-30-BIS 115/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 154 Z-1 P1/1,9.807226,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+128,CONANP-30-BIS 116/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 155 Z-1 P1/1,4.486313,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+129,CONANP-30-BIS 117/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 156 Z-1 P1/1,14.368747,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+130,CONANP-30-BIS 118/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 157 Z-1 P1/1,1.677789,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+131,CONANP-30-BIS 119/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 158 Z-1 P1/1,2.988517,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+132,CONANP-30-BIS 120/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 159 Z-1 P1/1,1.156992,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+133,CONANP-30-BIS 121/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 160 Z-1 P1/1,1.335901,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+134,CONANP-30-BIS 122/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 161 Z-1 P1/1,2.976765,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+135,CONANP-30-BIS 123/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 163 Z-1 P1/1,2.701687,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+136,CONANP-30-BIS 124/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 164 Z-1 P1/1,3.05202,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+137,CONANP-30-BIS 125/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 2 Z-1 P1/3,1.201724,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+138,CONANP-30-BIS 126/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 5 Z-1 P1/3,2.171388,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+139,CONANP-30-BIS 127/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 22 Z-1 P1/3,7.875189,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+140,CONANP-30-BIS 128/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 29 Z-1 P1/3,10.744922,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+141,CONANP-30-BIS 129/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 37 Z-1 P1/3,2.418282,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+142,CONANP-30-BIS 130/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 39 Z-1 P1/3,6.177218,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+143,CONANP-30-BIS 131/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 46 Z-1 P1/3,2.396409,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+144,CONANP-30-BIS 132/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 49 Z-1 P1/3,2.200742,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+145,CONANP-30-BIS 133/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 50 Z-1 P1/3,0.901165,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+146,CONANP-30-BIS 134/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 51 Z-1 P1/3,6.440217,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+147,CONANP-30-BIS 135/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 52 Z-1 P1/3,6.720291,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+148,CONANP-30-BIS 136/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 57 Z-1 P1/3,1.094415,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+149,CONANP-30-BIS 137/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 59 Z-1 P1/3,1.027074,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+150,CONANP-30-BIS 138/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 74 Z-1 P1/3,1.729142,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+151,CONANP-30-BIS 139/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 88 Z-1 P1/3,3.987402,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+152,CONANP-30-BIS 140/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 93 Z-1 P1/3,2.123547,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+153,CONANP-30-BIS 141/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 201 Z-1 P1/3,6.121672,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+154,CONANP-30-BIS 142/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 203 Z-1 P1/3,6.740425,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+155,CONANP-30-BIS 143/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 299 Z-1 P1/3,1.342289,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+156,CONANP-30-BIS 144/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 40 Z-1 P1/3,9.134734,Amatlan de Reyes,Veracruz,2006,30.0,Ejido (Parcela),Planicie Costera y Golfo de México
+157,CONANP-31/2006,Área de Conservación y Protección San Jacobo,986.0,Santiago Jocotepec,Oaxaca,2006,20.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+158,CONANP-34/2006,Reserva Ejidal Vistahermosa,1242.647649,Santiago Jocotepec,Oaxaca,2006,30.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+159,CONANP-36/2006,Área de Conservación los Ojos 1 fracciones A y B,11126.0907,Agua Prieta,Sonora,2006,,Persona moral,Noroeste y Alto Golfo de California
+160,CONANP-37/2006,Área de Conservación los Ojos 2-fracciones C y D,10301.5505,Agua Prieta,Sonora,2006,,Persona moral,Noroeste y Alto Golfo de California
+161,CONANP-38/2006,Área de Conservación los Ojos 3-fracciones E F G H I,12839.1427,Agua Prieta,Sonora,2006,,Persona moral,Noroeste y Alto Golfo de California
+162,CONANP-39/2006,Área de Conservación El Zapotal,2358.125,Tizimin,Yucatán,2006,,Persona moral,Península de Yucatán y Caribe Mexicano
+163,CONANP-40/2006,Reserva Comunal Mascalco,10000.0,San Pedro Huamelula,Oaxaca,2006,,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+164,CONANP-42/2006,Rancho San Pedro,805.0,Antiguo Morelos,Tamaulipas,2006,50.0,Persona física,Noreste y Sierra Madre Oriental
+165,CONANP-50/2006,La Pasionaria,1.75,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+166,CONANP-51/2006,El Corozal,2.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+167,CONANP-52/2006,Cafetal Soconusco,77.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+168,CONANP-53/2006,Cerro Azul,12.5,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+169,CONANP-54/2006,Huancastle,22.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+170,CONANP-56/2006,Concepción Vista Hermosa,109.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+171,CONANP-57/2006,EL Jordán,70.25,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+172,CONANP-58/2006,La Libertad,4.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+173,CONANP-59/2006,La Reforma,20.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+174,CONANP-60/2006,Los Lirios,3.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+175,CONANP-61/2006,Sacramento,6.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+176,CONANP-62/2006,Trapiche,4.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+177,CONANP-63/2006,La Soledad,10.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+178,CONANP-64/2006,Cafetal Las Flores,28.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+179,CONANP-65/2006,Juan Diego II,16.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+180,CONANP-66/2006,San Antonio,4.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+181,CONANP-67/2006,La Pasionaria,0.42,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+182,CONANP-68/2006,Tierra Colorada,2.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+183,CONANP-69/2006,San Ignacio,110.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+184,CONANP-70/2006,Piedra Blanca,2.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+185,CONANP-71/2006,Las Flores,2.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+186,CONANP-72/2006,San Vicente,22.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+187,CONANP-73/2006,Fraccionamiento Santa Fe,4.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+188,CONANP-74/2006,Rosalito I,3.0,Pluma Hidalgo,Oaxaca,2006,,Persona física,Frontera Sur Istmo y Pacífico Sur
+189,CONANP-75/2006,El Borbollón La Pandura y la Yerbabuena,817.0,Chilpancingo de los Bravo,Guerrero,2006,,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+190,CONANP-76/2006,Area de Protección del Aguila Real de la Serranía de Juan Grande,2589.45,El Llano,Aguascalientes,2006,50.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+191,CONANP-77/2006,Area de Conservación de la Ribera del Cajonos del Ejido Nuevo Málzaga,661.27,Santa María Jacatepec,Oaxaca,2006,99.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+192,CONANP-78/2006,Área de Conservación de la Ribera del Cajonos de la Comunidad de San Agustín,1765.07,Santa María Jacatepec,Oaxaca,2006,99.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+193,CONANP-80/2006,Area de Conservación de la Ribera del Cajonos del Ejido Plan Mata de Caña,2033.422,Santiago Jocotepec,Oaxaca,2006,99.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+194,CONANP-81/2006,El Ocotalito El Venadario y La Antena,340.9165,Leonardo Bravo,Guerrero,2006,20.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+195,CONANP-100/2007,Area de Conservación de la Ribera del Cajonos del Ejido Plan De San Luis,1360.0,Santiago Jocotepec,Oaxaca,2007,,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+196,CONANP-101/2007,Zona de Restauración Ecológica del Lobo Mexicano Potrero de Zamora,4417.5,Aramberri,Nuevo León,2007,99.0,Ejido (Tierras de Uso Común),Noreste y Sierra Madre Oriental
+197,CONANP-102/2007,Zona de Restauración Ecológica del Lobo Mexicano San Joaquín de Soto,6405.568,Aramberri,Nuevo León,2007,99.0,Ejido (Tierras de Uso Común),Noreste y Sierra Madre Oriental
+198,CONANP-103/2007,Zona de Restauración Ecológica del Lobo Mexicano Corona del Rosal,6579.2146,Galeana,Nuevo León,2007,99.0,Ejido (Tierras de Uso Común),Noreste y Sierra Madre Oriental
+199,CONANP-104/2007,Zona de Restauración Ecológica del Lobo Mexicano El Saucillo,1190.745,Aramberri,Nuevo León,2007,99.0,Ejido (Tierras de Uso Común),Noreste y Sierra Madre Oriental
+200,CONANP-121/2007,Cafetal San Juanito,32.0,Pluma Hidalgo,Oaxaca,2007,99.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+201,CONANP-124/2007,Área de Conservación Ecológica Comunitaria Campo Verde,847.16,Ajuchitlan del Progreso,Guerrero,2007,99.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+202,CONANP-134/2007,Sierra San Vicente,14932.18078,Ocampo,Coahuila,2007,50.0,Persona física,Noreste y Sierra Madre Oriental
+203,CONANP-149/2007,Área Comunitaria de Conservación Buenos Aires,218.01,Acatlán de Pérez Figueroa,Oaxaca,2007,99.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+204,CONANP-162/2007,Reserva Ecológica El Edén,1540.9525,Lázaro Cárdenas,Quintana Roo,2007,25.0,Persona física,Península de Yucatán y Caribe Mexicano
+205,CONANP-163/2007,Paraje El Frijolillo,1014.339672,San Miguel Soyaltepec,Oaxaca,2007,25.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+206,CONANP-165/2007,Área de Conservación de la Ribera del Cajonos del Ejido Plan Juan Martínez,259.504,Ayotzintepec,Oaxaca,2007,99.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+207,CONANP-166/2007,Zona de Restauración Ecológica del Lobo Mexicano La Providencia,1399.0274,Galeana,Nuevo León,2008,99.0,Ejido (Tierras de Uso Común),Noreste y Sierra Madre Oriental
+208,CONANP-170/2008,La Papalota 1,175.2188,Santiago Izcuintla,Nayarit,2008,99.0,Persona física,Occidente y Pacífico Centro
+209,CONANP-171/2008,La Papalota 2,193.61,Santiago Izcuintla,Nayarit,2008,99.0,Persona física,Occidente y Pacífico Centro
+210,CONANP-173/2008,Área de Conservación Ecológica Paraje Montero,667.853,Malinaltepec,Guerrero,2008,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+211,CONANP-175/2008,Área de Conservación Ecológica San José Vista Hermosa,459.51,San Luis Acatlán,Guerrero,2008,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+212,CONANP-179/2009,Área de Conservación del Faisán Real del Ejido Rancho Faisán,4208.695,Santa María Jacatepec,Oaxaca,2009,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+213,CONANP-181/2009,Área de Conservación del Mazate del Ejido Cerro Concha,1790.545,Santa María Jacatepec,Oaxaca,2009,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+214,CONANP-182/2009,Área de Conservación de la Cycada del Ejido Emiliano Zapata,713.715,Santa María Jacatepec,Oaxaca,2009,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+215,CONANP-183/2009,Zona de Uso Común I y Zona VIII,1264.8696,Santa María Chimalapa,Oaxaca,2009,30.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+216,CONANP-184/2009,Área de Conservación Ecológica de San Miguel del Progreso,277.0,Malinaltepec,Guerrero,2009,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+217,CONANP-185/2009,Área de Conservación Ecológica de Colombia de Guadalupe,631.189,Malinaltepec,Guerrero,2009,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+218,CONANP-186/2009,Área de Conservación Ecológica de San Lucas Teocuitlapa,1024.0,Atlixtac,Guerrero,2009,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+219,CONANP-187/2009,Área de Conservación Ecológica de Tecoyo,1025.7052,Alpoyeca,Guerrero,2009,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+220,CONANP-188/2009,Área de Conservación Ecológica de Huehuetepec,978.55,Atlamajalcingo del Monte,Guerrero,2009,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+221,CONANP-191/2009,Ozuma y Cuahuloma,804.1703,Hueyapan,Puebla,2009,15.0,Público Municipal,Planicie Costera y Golfo de México
+222,CONANP-192/2010,Área de Conservación Cerro Mirador,2500.0,San Juan Bautista Valle Nacional,Oaxaca,2010,20.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+223,CONANP-193/2010,Parque Ecológico de Iguala,51.3639,Iguala de la Independencia,Guerrero,2010,99.0,Persona moral,Centro y Eje Neovolcánico
+224,CONANP-195/2010,Área de Conservación Paso Nuevo La Hamaca,600.0,San Juan Bautista Valle Nacional,Oaxaca,2010,20.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+225,CONANP-215/2010,Área de Conservación Nopalera del Rosario,4200.0,San Juan Bautista Valle Nacional,Oaxaca,2010,25.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+226,CONANP-216/2010,Rancho Emanuel,12.1153,San Juan Mazatlán,Oaxaca,2010,99.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+227,CONANP-218/2010,Reserva Las Guacamayas,1454.134211,Marqués de Comillas,Chiapas,2010,99.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+228,CONANP-219/2010,El Cordón del Retén,51781.9358,San Miguel Chimalapa,Oaxaca,2010,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+229,CONANP-221/2010,La Capitana,958.44,San Andrés Ixtlahuaca,Oaxaca,2010,25.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+230,CONANP-224/2010,Zonas de Uso Común I II III y IV,1402.16651,San Juan Guichicovi,Oaxaca,2010,30.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+231,CONANP-233/2010,Finca Monte Carlo,161.2755,San Miguel del Puerto,Oaxaca,2010,50.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+232,CONANP-234/2010,Much Kanan K'aax,1230.0,Felipe Carrillo Puerto,Quintana Roo,2010,25.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+233,CONANP-235/2010,Selva Nueva y El Jaguar,5.878207,Coatepec,Veracruz,2010,20.0,Persona física,Planicie Costera y Golfo de México
+234,CONANP-236/2010,Huub'Sak,50.0,Othón P. Blanco,Quintana Roo,2010,99.0,Persona física,Península de Yucatán y Caribe Mexicano
+235,CONANP-247/2010,Área de Conservación San Antonio Analco,2050.0,San Felipe Usila,Oaxaca,2010,20.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+236,CONANP-248/2011,Área de Conservación Ecológica de San José Buenavista,358.5454,Alpoyeca,Guerrero,2011,50.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+237,CONANP-251/2011,Parque Ecológico Tuzandepetl,1047.19,Ixhuatlán del Sureste,Veracruz,2011,50.0,Empresa de Participación Estatal,Planicie Costera y Golfo de México
+238,CONANP-252/2011,Pequeña Propiedad del Sr. Epifanio Francisco Pacheco,5.7041,San Juan Guichicovi,Oaxaca,2011,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+239,CONANP-253/2011,34 Z-1 P1/1,5.924,San Juan Guichicovi,Oaxaca,2011,15.0,Ejido (Parcela),Frontera Sur Istmo y Pacífico Sur
+240,CONANP-254/2011,44 Z-1 P1/1,4.8453,San Juan Guichicovi,Oaxaca,2011,15.0,Ejido (Parcela),Frontera Sur Istmo y Pacífico Sur
+241,CONANP-255/2011,Área de Conservación Ecológica San Vicente Zoyatlan,3913.18,Alcozauca,Guerrero,2011,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+242,CONANP-256/2011,Área de Conservación Ecológica de Santa Cruz del Rincón,2379.86,Malinaltepec,Guerrero,2011,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+243,CONANP-257/2011,Área de Conservación Ecológica de Pueblo Hidalgo,7907.64,San Luis Acatlán,Guerrero,2011,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+244,CONANP-258/2011,Área de Conservación Ecológica de Acatepec,12655.7054,Acatepec,Guerrero,2011,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+245,CONANP-259/2011,Área de Conservación Ecológica de Zitlaltepec,2648.89,Metlatonoc,Guerrero,2011,30.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+246,CONANP-260/2011,Centro de Educación Ambiental Finca San Luis,14.049018,Temozón,Yucatán,2011,15.0,Persona física,Península de Yucatán y Caribe Mexicano
+247,CONANP-261/2011,Área de Conservación Ecológica de Totomixtlahuaca,4160.8735,Tlacoapa,Guerrero,2011,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+248,CONANP-262/2011,Santuario Cañada de la Virgen,5001.0,San Miguel de Allende,Guanajuato,2011,99.0,Persona moral,Occidente y Pacífico Centro
+249,CONANP-263/2011,Barranca Honda 3,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+250,CONANP-264/2011,Arroyo Mamey,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+251,CONANP-265/2011,Paraje,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+252,CONANP-266/2011,El Zapote,7.196741,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+253,CONANP-267/2011,La Piedra Boluda,15.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+254,CONANP-268/2011,El Ciruelo,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+255,CONANP-269/2011,Cerro Zanate,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+256,CONANP-270/2011,El Limón 2,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+257,CONANP-271/2011,El Sepudo 2,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+258,CONANP-272/2011,Barranca Honda 2,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+259,CONANP-273/2011,Los Limos,4.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+260,CONANP-274/2011,La Vainilla,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+261,CONANP-275/2011,Toncano,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+262,CONANP-276/2011,La Vainilla 2,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+263,CONANP-277/2011,Área de Conservación Agua de Obispo,220.0,Mochitlán,Guerrero,2011,99.0,Persona física,Centro y Eje Neovolcánico
+264,CONANP-278/2011,Tierra Perdida,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+265,CONANP-279/2011,Cerro del Naranjo 2,2.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+266,CONANP-280/2011,Arroyo Miel,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+267,CONANP-281/2011,Arroyo Choco,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+268,CONANP-282/2011,El Sepudo 3,3.275005,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+269,CONANP-283/2011,El Pantano 2,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+270,CONANP-284/2011,El Sepudo 4,4.178316,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+271,CONANP-285/2011,Tres Cerros 2,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+272,CONANP-286/2011,El Camalote 2,1.263889,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+273,CONANP-287/2011,El Palmar 2,2.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+274,CONANP-288/2011,El Palmar,4.647803,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+275,CONANP-289/2011,El Camalote,2.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+276,CONANP-290/2011,Cerro El Ocote La Parcela y El Puma Rosa,7.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+277,CONANP-291/2011,El Ceibo,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+278,CONANP-292/2011,Cerro del Naranjo,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+279,CONANP-293/2011,La Barrera,2.720566,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+280,CONANP-294/2011,El Zorro,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+281,CONANP-295/2011,Barranca Honda 1,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+282,CONANP-296/2011,El Sepudo,2.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+283,CONANP-297/2011,Tres Cerros,1.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+284,CONANP-298/2011,El Pantano,7.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+285,CONANP-299/2011,Rincón del Limo,2.0,Ometepec,Guerrero,2011,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+286,CONANP-300/2011,Área de Conservación Cañada del Iris,792.0,Atoyac de Álvarez,Guerrero,2011,99.0,Persona física,Centro y Eje Neovolcánico
+287,CONANP-301/2011,Área Natural Protegida El Nacimiento,204.453,Tlaxco,Tlaxcala,2011,15.0,Persona física,Centro y Eje Neovolcánico
+288,CONANP-302/2011,El Campanario-Laacanloo Cruz,4902.97,San Pablo Villa de Mitla,Oaxaca,2011,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+289,CONANP-303/2011,El Fuerte,988.12,San Pablo Villa de Mitla,Oaxaca,2011,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+290,CONANP-304/2011,Área Natural Protegida al Final de La Senda,19.5897,Tlaxco,Tlaxcala,2011,15.0,Persona física,Centro y Eje Neovolcánico
+291,CONANP-306/2011,Bosque Mágico de Piedra Canteada Santuario de La Luciérnaga Área Natural Protegida,632.2768,Nanacamilpa de Mariano Arista,Tlaxcala,2011,15.0,Persona moral,Centro y Eje Neovolcánico
+292,CONANP-307/2012,Área de Conservación Ecológica de San Bartolomé Tlaquiltepec,1537.8,Huamuxtitlán,Guerrero,2012,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+293,CONANP-308/2012,Área de Conservación Ecológica de Cualac,6958.0449,Cualac,Guerrero,2012,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+294,CONANP-309/2012,Ojo de Agua,2.0,Ometepec,Guerrero,2012,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+295,CONANP-310/2012,Rumbo a Agua Fría,2.0,Ometepec,Guerrero,2012,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+296,CONANP-311/2012,Cerro de San Marcos,2.0,Ometepec,Guerrero,2012,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+297,CONANP-312/2012,El Camalote 3,2.0,Ometepec,Guerrero,2012,99.0,Ejido (Parcela),Centro y Eje Neovolcánico
+298,CONANP-313/2012,Área Natural Protegida Santuario de La Luciernaga,195.0,Nanacamilpa de Mariano Arista,Tlaxcala,2012,15.0,Persona física,Centro y Eje Neovolcánico
+299,CONANP-315/2012,Pequeña Propiedad de Melquiades Flores Francisco denominada El Mirador,73.0179,San Juan Guichicovi,Oaxaca,2012,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+300,CONANP-316/2012,Servidumbre Ecológica para La Conservación Costera y Terrestre Rancho San Cristobál-Majibén,538.501457,Mulegé,Baja California Sur,2012,99.0,Persona física,Península de Baja California y Pacífico Norte
+301,CONANP-317/2012,El Aribabi Fracción B,3955.1836,Ímuris,Sonora,2012,15.0,Persona física,Noroeste y Alto Golfo de California
+302,CONANP-318/2012,Fracción C del Predio Rústico Los Güerigos,2698.3764,Ímuris,Sonora,2012,15.0,Persona moral,Noroeste y Alto Golfo de California
+303,CONANP-320/2012,Zona de Restauración Ecológica del Lobo Mexicano La Encantada,7936.783642,General Zaragoza,Nuevo León,2012,99.0,Ejido (Tierras de Uso Común),Noreste y Sierra Madre Oriental
+304,CONANP-321/2012,Zona de Restauración Ecológica del Lobo Mexicano San Francisco,3293.89213,General Zaragoza,Nuevo León,2012,99.0,Ejido (Tierras de Uso Común),Noreste y Sierra Madre Oriental
+305,CONANP-323/2012,Reserva Natural Zafiro,280.480182,La Huerta,Jalisco,2012,50.0,Persona moral,Occidente y Pacífico Centro
+306,CONANP-325/2012,Las Maravillas Lote 21,142.2,San Juan Guichicovi,Oaxaca,2012,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+307,CONANP-326/2012,Área de Conservación Ecológica de Santa Cruz,1014.890663,Huamuxtitlán,Guerrero,2012,30.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+308,CONANP-327/2012,Barranca del Ángel,105.0,Tlaxiaco,Oaxaca,2012,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+309,CONANP-328/2012,San José de Los Amates,17.0016,Santo Domingo Zanatepec,Oaxaca,2012,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+310,CONANP-330/2012,El Campanario,26.0,Chiautla de Tapia,Puebla,2012,20.0,Persona física,Centro y Eje Neovolcánico
+311,CONANP-331/2012,Palos Caídos,33.0954,Zacatlán,Puebla,2012,50.0,Persona física,Planicie Costera y Golfo de México
+312,CONANP-332/2012,Area Natural Protegida Cuarta Fracción de Santa Clara El Corte,29.0,Nanacamilpa de Mariano Arista,Tlaxcala,2012,15.0,Persona física,Centro y Eje Neovolcánico
+313,CONANP-333/2012,Area Natural Protegida Segunda Fracción de Santa Clara El Corte,28.08,Nanacamilpa de Mariano Arista,Tlaxcala,2012,15.0,Persona física,Centro y Eje Neovolcánico
+314,CONANP-334/2012,Area Natural Protegida Primera Fracción de Santa Clara El Corte,28.22,Nanacamilpa de Mariano Arista,Tlaxcala,2012,15.0,Persona física,Centro y Eje Neovolcánico
+315,CONANP-335/2012,Area Natural Protegida Tercera Fracción de Santa Clara El Corte,28.08,Nanacamilpa de Mariano Arista,Tlaxcala,2012,15.0,Persona física,Centro y Eje Neovolcánico
+316,CONANP-336/2012,Area Natural Protegida La Cruz,14.7263,Tlaxco,Tlaxcala,2012,15.0,Persona física,Centro y Eje Neovolcánico
+317,CONANP-337/2012,Área de Conservación Protección y Desarrollo Silvopastoril Acahuizotla,1998.817312,Chilpancingo de los Bravo,Guerrero,2012,99.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+318,CONANP-338/2012,Cerro de La Culebra,464.0,San Marcos Arteaga,Oaxaca,2012,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+319,CONANP-339/2012,Área Natural Protegida Tenexac,478.794,Terrenate,Tlaxcala,2012,15.0,Persona física,Centro y Eje Neovolcánico
+320,CONANP-340/2012,Área Natural Protegida Fracción Cuatro de San José El Manantial,41.9403,Tlaxco,Tlaxcala,2012,15.0,Persona física,Centro y Eje Neovolcánico
+321,CONANP-341/2012,Área Natural Protegida Fracción Número Cinco de San José El Manantial,41.9346,Tlaxco,Tlaxcala,2012,15.0,Persona física,Centro y Eje Neovolcánico
+322,CONANP-342/2012,Área Natural Protegida Fracción Dos de San José El Manantial,41.9472,Tlaxco,Tlaxcala,2012,15.0,Persona física,Centro y Eje Neovolcánico
+323,CONANP-343/2012,Área de Uso Común del Núcleo Agrario El Barrio de la Soledad,3565.7984,Barrio de la Soledad,Oaxaca,2012,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+324,CONANP-344/2013,Tierras de Uso Común del Ejido San Juanito,324.7390652,San Juan Guichicovi,Oaxaca,2013,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+325,CONANP-345/2013,Zona de Uso Común I y II,44.5715022,San Juan Guichicovi,Oaxaca,2013,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+326,CONANP-346/2013,Reserva Ecológica Llanos de Magdalena,621.551945,Comondú,Baja California Sur,2013,99.0,Persona moral,Península de Baja California y Pacífico Norte
+327,CONANP-347/2013,Reserva Natural El Portezuelo I,1323.04993,La Paz,Baja California Sur,2013,99.0,Persona moral,Península de Baja California y Pacífico Norte
+328,CONANP-348/2013,Reserva Natural El Portezuelo II,925.705033,La Paz,Baja California Sur,2013,99.0,Persona moral,Península de Baja California y Pacífico Norte
+329,CONANP-349/2013,Reserva Natural El Portezuelo III,384.667621,Loreto,Baja California Sur,2013,99.0,Persona moral,Península de Baja California y Pacífico Norte
+330,CONANP-350/2013,El Gavilán,1130.46,Santa María Tonameca,Oaxaca,2013,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+331,CONANP-351/2013,Costa Salvaje WildLands,3469.05548,Ensenada,Baja California,2013,99.0,Persona moral,Península de Baja California y Pacífico Norte
+332,CONANP-352/2013,Los Fresnos,3876.5447,Santa Cruz,Sonora,2013,99.0,Persona moral,Noroeste y Alto Golfo de California
+333,CONANP-353/2013,Ha'Bin,90.0,Uayma,Yucatán,2013,30.0,Persona física,Península de Yucatán y Caribe Mexicano
+334,CONANP-354/2013,Área Natural Protegida Primera Fracción de la Fracción Dos del Predio Sin Construcción Denominado Ojo de Agua,13.810686,Tlaxco,Tlaxcala,2013,15.0,Persona física,Centro y Eje Neovolcánico
+335,CONANP-355/2013,Kitam,47.45,Dzitas y Tinum,Yucatán,2013,30.0,Persona física,Península de Yucatán y Caribe Mexicano
+336,CONANP-357/2013,Reserva Privada Moon Palace,315.731,Benito Juárez,Quintana Roo,2013,15.0,Persona moral,Península de Yucatán y Caribe Mexicano
+337,CONANP-359/2013,Área Natural Protegida Ejido El Rosario,1269.264055,Tlaxco,Tlaxcala,2013,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+338,CONANP-360/2013,Reserva Natural Valle Tranquilo,3691.204134,Ensenada,Baja California,2013,99.0,Persona moral,Península de Baja California y Pacífico Norte
+339,CONANP-361/2013,Danii Idoo (Cerro Iglesia),3148.44,Villa Díaz Ordaz,Oaxaca,2013,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+340,CONANP-362/2013,Siete Cumbres Guadalupe Cuautepec,463.4676,San Juan Bautista Suchitepec,Oaxaca,2013,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+341,CONANP-363/2014,ANP Loma de Enmedio y Tetzitzilica,26.975342,Tlaxco,Tlaxcala,2014,15.0,Persona física,Centro y Eje Neovolcánico
+342,CONANP-364/2014,Sáta Sííka,91.1548,Ixpantepec Nieves,Oaxaca,2014,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+343,CONANP-365/2014,Reserva Natural El Portezuelo IV,2039.782189,La Paz,Baja California Sur,2014,99.0,Persona moral,Península de Baja California y Pacífico Norte
+344,CONANP-366/2014,Parcela No 22 Z-1 P1/1,85.666777,Asunción Ixtaltepec,Oaxaca,2014,30.0,Ejido (Parcela),Frontera Sur Istmo y Pacífico Sur
+345,CONANP-367/2014,Parcela No 93 Z-1 P1/1,72.772249,Asunción Ixtaltepec,Oaxaca,2014,15.0,Ejido (Parcela),Frontera Sur Istmo y Pacífico Sur
+346,CONANP-368/2014,Reserva Ecológica Llanos de Magdalena II,445.522518,Comondú,Baja California Sur,2014,99.0,Persona moral,Península de Baja California y Pacífico Norte
+347,CONANP-370/2014,Área Natural Protegida Ejido Miguel Lira y Ortega Santuario de la Luciérnaga,275.561,Nanacamilpa de Mariano Arista,Tlaxcala,2014,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+348,CONANP-371/2014,Parcela No 221 Z-1 P1/1,178.513454,Asunción Ixtaltepec,Oaxaca,2014,40.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+349,CONANP-372/2014,Parcela No 262 Z-1 P1/1,141.157414,Asunción Ixtaltepec,Oaxaca,2014,40.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+350,CONANP-373/2014,Sata Yuku N'daa (Atrás del Cerro de La Mano),625.028955,Tezoatlan de Segura y Luna,Oaxaca,2014,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+351,CONANP-374/2014,Jardín Botánico El Charco del Ingenio,66.121628,San Miguel de Allende,Guanajuato,2014,99.0,Persona moral,Occidente y Pacífico Centro
+352,CONANP-375/2014,Predio San José,50.0,Matías Romero Avendaño,Oaxaca,2014,50.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+353,CONANP-376/2014,Reserva Privada Bosque Antiguo A.C,373.25,Bolaños,Jalisco,2014,50.0,Persona moral,Occidente y Pacífico Centro
+354,CONANP-377/2014,Cerro del Organal,229.0,San Marcos Arteaga,Oaxaca,2014,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+355,CONANP-378/2014,CostaSalvaje WildLands II,3846.848008,Ensenada,Baja California,2014,99.0,Persona moral,Península de Baja California y Pacífico Norte
+356,CONANP-379/2014,Reserva Natural Punta Mazo,832.4685758,Ensenada,Baja California,2014,99.0,Persona moral,Península de Baja California y Pacífico Norte
+357,CONANP-380/2014,Reserva Ecológica Bahía Santa María II,840.103088,Angostura,Sinaloa,2014,99.0,Persona moral,Noroeste y Alto Golfo de California
+358,CONANP-381/2014,Reserva Ecológica Bahía Santa María I,292.795552,Angostura,Sinaloa,2014,99.0,Persona moral,Noroeste y Alto Golfo de California
+359,CONANP-382/2015,La Mariquita,2195.890575,Cananea,Sonora,2015,99.0,Público Federal,Noroeste y Alto Golfo de California
+360,CONANP-383/2015,Barranca Honda,51.3493,Ocozocoautla de Espinosa,Chiapas,2015,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+361,CONANP-384/2015,Las Maravillas Lote 8,127.7063,San Juan Guichicovi,Oaxaca,2015,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+362,CONANP-385/2015,El Diamante,150.0,San Pedro Tapanatepec,Oaxaca,2015,30.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+363,CONANP-386/2015,Rancho Pipos,8.4339,Palenque,Chiapas,2015,50.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+364,CONANP-387/2015,Los Naranjos,150.0,San Pedro Tapanatepec,Oaxaca,2015,30.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+365,CONANP-388/2015,Santuario para el Águila Real en los Bienes Comunales de San José de Gracia Aguascalientes,6170.0,San José de Gracia,Aguascalientes,2015,30.0,Comunidad (Bienes comunales),Occidente y Pacífico Centro
+366,CONANP-389/2015,La Llorona,50.0,Matías Romero Avendaño,Oaxaca,2015,50.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+367,CONANP-390/2015,Área de Germoplasma Relevante Rancho La Puerta,1379.78,Saltillo,Coahuila,2015,15.0,Persona física,Noreste y Sierra Madre Oriental
+368,CONANP-391/2016,La Herradura,177.0,San Pedro Tapanatepec,Oaxaca,2016,30.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+369,CONANP-392/2016,Santha Martha,479.02,Loreto,Baja California Sur,2016,73.0,Persona moral,Península de Baja California y Pacífico Norte
+370,CONANP-393/2016,CostaSalvaje WildLands III,6029.608147,Ensenada,Baja California,2016,89.0,Persona moral,Península de Baja California y Pacífico Norte
+371,CONANP-394/2016,Las Gatas,61.3683982,Puerto Morelos,Quintana Roo,2016,99.0,Persona física,Península de Yucatán y Caribe Mexicano
+372,CONANP-395/2016,Las Nubes,424.289471,Mapastepec,Chiapas,2016,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+373,CONANP-396/2016,El Rosario,49.7459,Tapachula,Chiapas,2016,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+374,CONANP-398/2016,El Quemado,1896.679298,Casas Grandes,Chihuahua,2016,99.0,Persona física,Norte y Sierra Madre Occidental
+375,CONANP-399/2017,Zerimar,50.0,Matías Romero Avendaño,Oaxaca,2017,50.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+376,CONANP-400/2017,Reserva Ecológica Llanos de Magdalena III,217.692884,Comondú,Baja California Sur,2017,88.0,Persona moral,Península de Baja California y Pacífico Norte
+377,CONANP-401/2017,Paco´s Reserva de Flora y Fauna,10.020644,Mazatlán,Sinaloa,2017,99.0,Persona física,Noroeste y Alto Golfo de California
+378,CONANP-402/2017,Grutas de Montecristo,7.0793852,El Parral,Chiapas,2017,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+379,CONANP-403/2017,La Victoria,50.0,Matías Romero Avendaño,Oaxaca,2017,50.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+380,CONANP-404/2017,Rancho Guaabñagob,116.6531,San Juan Guichicovi,Oaxaca,2017,30.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+381,CONANP-405/2017,El Michoacano,50.0,Matías Romero Avendaño,Oaxaca,2017,50.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+382,CONANP-406/2017,Los Bordos,3153.927,Jiquipilas,Chiapas,2017,50.0,Público Estatal,Frontera Sur Istmo y Pacífico Sur
+383,CONANP-407/2017,Reserva Natural Monte Ceniza,803.4064,Ensenada,Baja California,2017,99.0,Persona moral,Península de Baja California y Pacífico Norte
+384,CONANP-408/2017,Reserva El Chirimole,469.1078154,Elota,Sinaloa,2017,30.0,Persona moral,Noroeste y Alto Golfo de California
+385,CONANP-409/2017,Reserva Ecológica Bahía Santa María III,506.157792,Angostura,Sinaloa,2017,87.0,Persona moral,Noroeste y Alto Golfo de California
+386,CONANP-410/2017,Finca El Corinto,499.4022,Ocozocoautla de Espinosa,Chiapas,2017,99.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+387,CONANP-411/2017,Rancho el Roble,230.351788,Asunción Ixtaltepec,Oaxaca,2017,30.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+388,CONANP-412/2017,Las Palmillas de Cerro Verde,973.6708,Santiago Ayuquililla,Oaxaca,2017,99.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+389,CONANP-413/2017,El Paraíso del Jaguar,518.5,La Concordia,Chiapas,2017,99.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+390,CONANP-414/2017,Agua Buena,1190.0,Santiago Ayuquililla,Oaxaca,2017,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+391,CONANP-415/2017,Zona de Uso Común 1 y 2,2178.308997,Juchitán de Zaragoza,Oaxaca,2017,30.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+392,CONANP-416/2017,Rancho Los Manantiales,100.0,San Juan Mazatlán,Oaxaca,2017,30.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+393,CONANP-417/2017,Reserva Ecológica Presa El Caldillo,68.3188765,Gudalupe y Calvo,Chihuahua,2017,99.0,Público Municipal,Norte y Sierra Madre Occidental
+394,CONANP-418/2017,N.C.P.E. Centauro del Norte,9722.754588,Calakmul,Campeche,2017,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+395,CONANP-419/2017,N.C.P.E Dos Lagunas,4227.539966,Calakmul,Campeche,2017,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+396,CONANP-420/2017,Ejido Puebla de Morelia,1696.39189,Calakmul,Campeche,2017,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+397,CONANP-421/2017,Ejido Kilómetro 120,9113.47861,Calakmul,Campeche,2017,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+398,CONANP-422/2017,N.C.P.E Santa Rosa,4514.236396,Calakmul,Campeche,2017,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+399,CONANP-423/2017,Ejido Carlos A. Madrazo,864.030076,Calakmul,Campeche,2017,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+400,CONANP-424/2017,Ejido Ley de Fomento Agropecuario,4276.801261,Calakmul,Campeche,2017,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+401,CONANP-425/2017,N.C.P.E. Lic. Manuel Crescencio Rejón,6205.850198,Calakmul,Campeche,2017,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+402,CONANP-426/2017,N.C.P.E Valentín Gómez Farías,1388.55142,Calakmul,Campeche,2017,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+403,CONANP-427/2018,Cañada del Otate,450.0,Huajapan de León,Oaxaca,2018,15.0,Persona moral,Frontera Sur Istmo y Pacífico Sur
+404,CONANP-428/2018,Ejido Nuevo Becal,50689.93235,Calakmul,Campeche,2018,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+405,CONANP-429/2018,Los Mangos,332.2235,Balancán,Tabasco,2018,50.0,Persona física,Planicie Costera y Golfo de México
+406,CONANP-430/2018,Fracción Tercera del Ex-Rancho Buenavista,7.04,Nanacamilpa de Mariano Arista,Tlaxcala,2018,15.0,Persona física,Centro y Eje Neovolcánico
+407,CONANP-431/2018,Dulce Amparo de Águila,1356.14279,Coyame del Sotol,Chihuahua,2018,99.0,Persona física,Norte y Sierra Madre Occidental
+408,CONANP-432/2018,Área de Conservación de San Rafael Agua Pescadito,3500.0,San Juan Bautista Valle Nacional,Oaxaca,2018,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+409,CONANP-433/2018,Biól. Julio Berdegué Aznar,23.1,Puerto Morelos,Quintana Roo,2018,78.0,Persona moral,Península de Yucatán y Caribe Mexicano
+410,CONANP-434/2018,Reserva Ecológica Kanan Balam,3073.31,Carmen,Campeche,2018,50.0,Persona moral,Planicie Costera y Golfo de México
+411,CONANP-435/2018,Estación de Biología de San José del Este,542.0,Carmen,Campeche,2018,50.0,Público Estatal,Planicie Costera y Golfo de México
+412,CONANP-436/2018,El Guarumbo,70.25,San Juan Guichicovi,Oaxaca,2018,25.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+413,CONANP-437/2018,Tetlalcolulco Lugar Sagrado Santa Isabel Chalma,300.0,Amecameca,Estado de México,2018,50.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+414,CONANP-438/2018,Parque La Colorada de Álamos,109.571885,Álamos,Sonora,2018,30.0,Persona moral,Noroeste y Alto Golfo de California
+415,CONANP-439/2018,Potrero de La Lumbre,5453.2,Guadalupe y Calvo,Chihuahua,2018,99.0,Ejido (Tierras de Uso Común),Norte y Sierra Madre Occidental
+416,CONANP-440/2018,ADVC-IMTA,20.0779297,Jiutepec,Morelos,2018,15.0,Público Federal,Centro y Eje Neovolcánico
+417,CONANP-441/2019,Área de Conservación Moku,20145.26,Champotón,Campeche,2019,30.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+418,CONANP-442/2019,Costa Salvaje WildLands IV,4187.364141,Ensenada,Baja California,2019,99.0,Persona moral,Península de Baja California y Pacífico Norte
+419,CONANP-443/2019,Loma del Gorrión,114.0,Saltillo,Coahuila,2019,20.0,Persona moral,Noreste y Sierra Madre Oriental
+420,CONANP-444/2019,Rancho Don Andrés,196.753,La Huerta,Jalisco,2019,42.0,Persona moral,Occidente y Pacífico Centro
+421,CONANP-445/2019,Calapa,93.971573,Hueyapan,Puebla,2019,15.0,Persona física,Planicie Costera y Golfo de México
+422,CONANP-446/2019,Potrero El Muerto,150.0,Lagos de Moreno,Jalisco,2019,15.0,Persona física,Occidente y Pacífico Centro
+423,CONANP-447/2019,Rancho Regalo de Dios,750.0,Ocampo,Tamaulipas,2019,99.0,Persona física,Noreste y Sierra Madre Oriental
+424,CONANP-448/2019,Zona de Conservación Cañada Larga,235.0,Puerto Vallarta,Jalisco,2019,15.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+425,CONANP-449/2019,Reserva Pajaritos,10.0,Compostela,Nayarit,2019,15.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+426,CONANP-450/2019,Laguna Om,35000.0,Othón P. Blanco,Quintana Roo,2019,30.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+427,CONANP-451/2019,Zona de Conservación Arroyo Texas,64.0,Puerto Vallarta,Jalisco,2019,15.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+428,CONANP-452/2019,Jalcote,31.0,Compostela,Nayarit,2019,15.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+429,CONANP-453/2019,Área de Conservación del Ejido Cerro de Oro,907.4592,San Lucas Ojitlán,Oaxaca,2019,20.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+430,CONANP-454/2019,Reserva Natural El Portezuelo V,2151.97,La Paz,Baja California Sur,2019,80.0,Persona moral,Península de Baja California y Pacífico Norte
+431,CONANP-455/2019,Los Montes de San Pedro II,1212.325531,Ensenada,Baja California,2019,99.0,Persona física,Península de Baja California y Pacífico Norte
+432,CONANP-456/2019,Los Montes de San Pedro I,2554.549511,Ensenada,Baja California,2019,99.0,Persona física,Península de Baja California y Pacífico Norte
+433,CONANP-457/2019,Los Montes de San Pedro III,735.692388,Ensenada,Baja California,2019,99.0,Persona física,Península de Baja California y Pacífico Norte
+434,CONANP-458/2019,Tecuani Piedra Cuachi,1035.656433,Salina Cruz,Oaxaca,2019,30.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+435,CONANP-459/2019,Ejido Santigo Coltzingo,141.234006,Texcoco,Estado de México,2019,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+436,CONANP-460/2019,Reserva Ejidal Peñas Blancas,29.0,Puerto Vallarta,Jalisco,2019,15.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+437,CONANP-461/2019,Cerro del Negro,151.0,Compostela,Nayarit,2019,15.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+438,CONANP-462/2019,Área de Conservación Vallejo,104.0,Bahía de banderas,Nayarit,2019,15.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+439,CONANP-463/2019,Zona de Conservación Tamichilchi,50.0,San Blas,Nayarit,2019,15.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+440,CONANP-464/2020,Área de Conservación de Cerro Agua Platanar,1943.08,San Miguel Soyaltepec,Oaxaca,2020,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+441,CONANP-465/2020,Reserva Ejidal Vega del Sol,1823.812021,Santa María Jacatepec,Oaxaca,2020,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+442,CONANP-466/2020,Terreno Nacional El Tinthé,98.76,Tecozautla,Hidalgo,2020,99.0,Público Federal,Centro y Eje Neovolcánico
+443,CONANP-468/2021,Reserva Natural San Quintín,201.0,San Quintín,Baja California,2021,99.0,Público Estatal,Península de Baja California y Pacífico Norte
+444,CONANP-469/2021,Ejido San Ignacio de Arareco,3917.879891,Bocoyna,Chihuahua,2021,15.0,Ejido (Tierras de Uso Común),Norte y Sierra Madre Occidental
+445,CONANP-470/2021,Área Ribereña Ejido Bocoyna,3070.399734,Bocoyna,Chihuahua,2021,15.0,Ejido (Tierras de Uso Común),Norte y Sierra Madre Occidental
+446,CONANP-471/2021,Ejido Panalachi,4100.08,Bocoyna,Chihuahua,2021,15.0,Ejido (Tierras de Uso Común),Norte y Sierra Madre Occidental
+447,CONANP-472/2021,Santa María Guienagati,29818.81,Santa María Guienagati,Oaxaca,2021,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+448,CONANP-473/2021,Katab,153.0,Hopelchén,Campeche,2021,20.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+449,CONANP-474/2021,Ich-Ek,153.0,Hopelchén,Campeche,2021,23.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+450,CONANP-475/2021,Xcupilcacab,150.0,Hopelchén,Campeche,2021,21.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+451,CONANP-476/2021,Ramón Corona,142.0,Hopelchén,Campeche,2021,26.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+452,CONANP-477/2021,Rancho Santa Elena,827.1702009,Huasca de Ocampo,Hidalgo,2021,30.0,Persona física,Centro y Eje Neovolcánico
+453,CONANP-478/2021,Guiexoxa - Guishido Nabajni,26811.91121,Santo Domingo Petapa,Oaxaca,2021,30.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+454,CONANP-479/2021,Olla Verde,157.0,El Naranjo,San Luis Potosí,2021,15.0,Persona física,Noreste y Sierra Madre Oriental
+455,CONANP-482/2022,Atzingo,1635.37,Ocuilán,Estado de México,2022,20.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+456,CONANP-483/2022,Ejido Emiliano Zapata,59.496186,Amecameca,Estado de México,2022,50.0,Ejido (Tierras de Uso Común y Parcelas),Centro y Eje Neovolcánico
+457,CONANP-484/2022,Rancho Xcalot Akal,136.0,Hopelchén,Campeche,2022,27.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+458,CONANP-485/2022,San Juan Bautista Sahcabchén,144.0,Hopelchén,Campeche,2022,24.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+459,CONANP-486/2022,Ejido Gral. Heriberto Jara,1995.55,Calakmul,Campeche,2022,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+460,CONANP-487/2022,Ejido La Nueva Vida,2387.792881,Calakmul,Campeche,2022,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+461,CONANP-488/2022,Ing. Eugenio Echeverría Castellot no. 2,1009.31,Calakmul,Campeche,2022,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+462,CONANP-489/2022,Xpujil,5579.648712,Calakmul,Campeche,2022,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+463,CONANP-490/2022,Narciso Mendoza,2775.0,Calakmul,Campeche,2022,50.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+464,CONANP-491/2022,El Porvenir,1353.21,Calakmul,Campeche,2022,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+465,CONANP-492/2022,El Refugio,854.1,Calakmul,Campeche,2022,50.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+466,CONANP-493/2022,Ejido El Chichonal,1003.764775,Calakmul,Campeche,2022,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+467,CONANP-494/2022,Cordón Grande,8573.0,Técpan de Galeana,Guerrero,2022,50.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+468,CONANP-495/2022,Non-Such,80.0,La Paz,Baja California Sur,2022,20.0,Persona física,Península de Baja California y Pacífico Norte
+469,CONANP-496/2022,Reserva Ecológica Bahía de Santa María V,69.56,Angostura,Sinaloa,2022,82.0,Persona moral,Noroeste y Alto Golfo de California
+470,CONANP-497/2022,Reserva Ecológica Llanos de Magdalena IV,292.162028,Comondú,Baja California Sur,2022,82.0,Persona moral,Península de Baja California y Pacífico Norte
+471,CONANP-498/2022,Caborachi,852.0,Guachochi,Chihuahua,2022,15.0,Ejido (Tierras de Uso Común),Norte y Sierra Madre Occidental
+472,CONANP-499/2022,Reserva Natural Geococcyx,70.0,Reynosa,Tamaulipas,2022,20.0,Persona física,Noreste y Sierra Madre Oriental
+473,CONANP-500/2022,Norogachi,15558.0,Guachochi,Chihuahua,2022,15.0,Ejido (Tierras de Uso Común),Norte y Sierra Madre Occidental
+474,CONANP-501/2022,Cerro El Chilar,796.559349,San Miguel Chimalapa,Oaxaca,2022,30.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+475,CONANP-502/2023,Cordillera Molina,18034.3557,Ensenada,Baja California,2023,15.0,Ejido (Tierras de Uso Común),Península de Baja California y Pacífico Norte
+476,CONANP-503/2023,La Cañada San Antonio,438.205711,Acatlán de Pérez Figueroa,Oaxaca,2023,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+477,CONANP-505/2023,Bios Petempich,236.14,Benito Juárez,Quintana Roo,2023,83.0,Persona moral,Península de Yucatán y Caribe Mexicano
+478,CONANP-506/2023,Ovando La Piñuela,2790.8054,Escuintla,Chiapas,2023,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+479,CONANP-507/2023,Rancho Evergreen,37.041245,Teopisca,Chiapas,2023,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+480,CONANP-508/2023,El Fénix,801.352719,Champotón,Campeche,2023,15.0,Persona física,Península de Yucatán y Caribe Mexicano
+481,CONANP-509/2023,La Ocotera,17.59,Mascota,Jalisco,2023,15.0,Persona física,Occidente y Pacífico Centro
+482,CONANP-510/2023,La Moza,5000.009559,Calakmul,Campeche,2023,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+483,CONANP-511/2023,Área de Conservación de Los Cactus,60.0,La Paz,Baja California Sur,2023,15.0,Ejido (Tierras de Uso Común),Península de Baja California y Pacífico Norte
+484,CONANP-512/2023,Tabernillas,39.0,Cabo Corrientes,Jalisco,2023,15.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+485,CONANP-513/2023,AU’DAM Refugio Silvestre,6700.0,Pueblo Nuevo,Durango,2023,30.0,Comunidad (Bienes comunales),Norte y Sierra Madre Occidental
+486,CONANP-514/2023,Reserva Comunal Tres Picos,224204.38,Santa María Chimalapa,Oaxaca,2023,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+487,CONANP-515/2023,Reserva Comunal Cerro Azul,3555.33,Santa María Chimalapa,Oaxaca,2023,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+488,CONANP-516/2023,Reserva Comunal,107119.19,Santa María Chimalapa,Oaxaca,2023,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+489,CONANP-517/2023,Reserva Comunal Cerro Atravezado,25701.47,San Miguel Chimalapa,Oaxaca,2023,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+490,CONANP-518/2023,Reserva Comunal Cerro Prieto,24159.71,San Miguel Chimalapa,Oaxaca,2023,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+491,CONANP-519/2023,Guievea - Flor del Río,20424.0,Guevea de Humboldt,Oaxaca,2023,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+492,CONANP-520/2023,San José de Los Olivos,1350.978738,Petatlán,Guerrero,2023,60.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+493,CONANP-521/2023,Río Frío de los Fresnos,13185.0,Coyuca de Catalán,Guerrero,2023,50.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+494,CONANP-522/2023,Ejido El Porvenir y Anexo El Limón,1992.2704,Atoyac de Álvarez,Guerrero,2023,99.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+495,CONANP-524/2023,Cerro de la Garza,207.52,San Pedro Comitancillo,Oaxaca,2023,99.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+496,CONANP-525/2023,Cerro El Manantial de Mazín Grande,1492.012628,San Lucas Ojitlán,Oaxaca,2023,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+497,CONANP-526/2023,Ejido Lic. Benito Juárez no. 3,3000.0,Escárcega,Campeche,2023,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+498,CONANP-527/2023,Reserva Ecológica Bahía de Santa María IV,242.329133,Angostura,Sinaloa,2023,57.0,Persona moral,Noroeste y Alto Golfo de California
+499,CONANP-528/2023,San Francisco del Tibor,308.8,Atoyac de Álvarez,Guerrero,2023,99.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+500,CONANP-529/2023,Verde es Vida,5326.27,Petatlán,Guerrero,2023,20.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+501,CONANP-530/2023,Ley Federal de Reforma Agraria,4079.9163,Champotón,Campeche,2023,15.0,Ejido (Tierras de Uso Común y Parcelas),Península de Yucatán y Caribe Mexicano
+502,CONANP-531/2023,Santiago de la Unión,101.96,Atoyac de Álvarez,Guerrero,2023,99.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+503,CONANP-536/2023,Ejido El Bajío,2460.444329,Caborca,Sonora,2023,15.0,Ejido (Tierras de Uso Común),Noroeste y Alto Golfo de California
+504,CONANP-537/2023,Estación Salado,35441.30268,Vanegas,San Luis Potosí,2023,99.0,Ejido (Tierras de Uso Común),Noreste y Sierra Madre Oriental
+505,CONANP-538/2023,El Angostillo,473.432263,Tlaltetela,Veracruz,2023,15.0,Ejido (Tierras de Uso Común),Planicie Costera y Golfo de México
+506,CONANP-539/2023,Ejido Arellano,1010.0,Champotón,Campeche,2023,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+507,CONANP-540/2023,Tzsicao,1100.0,La Trinitaria,Chiapas,2023,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+508,CONANP-542/2023,Ejido Crucero de San Luis,1959.0,Hopelchén,Campeche,2023,30.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+509,CONANP-543/2023,Parque Guanacastle,148.0,Tuxtla Gutiérrez,Chiapas,2023,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+510,CONANP-544/2023,El Tecolote,70.0,San Luis Acatlán,Guerrero,2023,99.0,Persona física,Centro y Eje Neovolcánico
+511,CONANP-545/2023,Balcón de la Bandera,3942.488365,Petatlán,Guerrero,2023,60.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+512,CONANP-546/2023,Majada del Catrín,10.0,Puerto Vallarta,Jalisco,2023,15.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+513,CONANP-547/2023,Centenario del Ejido,323.33,San Antonio de la Cal,Oaxaca,2023,30.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+514,CONANP-548/2023,Yuuk'am,714.0,Totontepec Villa de Morelos,Oaxaca,2023,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+515,CONANP-549/2023,Tembladeras de Vista Hermosa,1143.52,Acatlán de Pérez Figueroa,Oaxaca,2023,50.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+516,CONANP-550/2023,Haramara Retreat,4.17568,Bahía de Banderas,Nayarit,2023,30.0,Persona física,Occidente y Pacífico Centro
+517,CONANP-551/2023,Rancho El Tucán,403.2552,Aldama,Tamaulipas,2023,15.0,Persona moral,Planicie Costera y Golfo de México
+518,CONANP-552/2023,El Rincon del Limón,1772.3,Atoyac de Álvarez,Guerrero,2023,99.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+519,CONANP-553/2024,San Juan de Alima,165.871216,Aquila,Michoacán,2024,15.0,Persona moral,Occidente y Pacífico Centro
+520,CONANP-554/2024,Lomas del Arcángel,0.835179,Bahía de Banderas,Nayarit,2024,20.0,Persona física,Occidente y Pacífico Centro
+521,CONANP-555/2024,Montaña Color Cobre,5.3269,Bahía de Banderas,Nayarit,2024,20.0,Persona física,Occidente y Pacífico Centro
+522,CONANP-556/2024,La Siempre Viva,1298.0,San Juan Bautista Guelache,Oaxaca,2024,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+523,CONANP-557/2024,La Mina,795.0,Santa María del Tule,Oaxaca,2024,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+524,CONANP-558/2024,Tolistoque-La Venta,1306.95,Juchitán de Zaragoza,Oaxaca,2024,30.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+525,CONANP-559/2024,Ejido Cinco de Febrero,16000.0,Champotón,Campeche,2024,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+526,CONANP-560/2024,Ejido Matamoros,3000.0,Escárcega,Campeche,2024,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+527,CONANP-561/2024,San Mateo Yetla,5745.428656,San Juan Bautista Valle Nacional,Oaxaca,2024,99.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+528,CONANP-562/2024,Cerro de Guinas,1327.975342,San Luis Amatlán,Oaxaca,2024,99.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+529,CONANP-563/2024,Las Cuevas del Jaguar,160.737894,San Ignacio,Sinaloa,2024,99.0,Persona física,Noroeste y Alto Golfo de California
+530,CONANP-564/2024,Ejido Pixoyal,10000.0,Champotón,Campeche,2024,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+531,CONANP-565/2024,Atecomoni,76.812634,Teziutlán,Puebla,2024,99.0,Público Municipal,Planicie Costera y Golfo de México
+532,CONANP-566/2024,Área Comunal del Ejido Santa Juana Altamira,459.844704,Altamira,Tamaulipas,2024,15.0,Ejido (Tierras de Uso Común),Planicie Costera y Golfo de México
+533,CONANP-567/2024,El Mexicano,155.770525,Ixtlahuacán del Río,Jalisco,2024,15.0,Persona física,Occidente y Pacífico Centro
+534,CONANP-568/2024,Cerro de las Flores,0.597578,Xochistlahuaca,Guerrero,2024,30.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+535,CONANP-569/2024,Veinte Cerros,1500.0,Santiago Jocotepec,Oaxaca,2024,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+536,CONANP-570/2024,La Estropajera,3.729719,Bahía de Banderas,Nayarit,2024,30.0,Persona física,Occidente y Pacífico Centro
+537,CONANP-571/2024,SNA,7.270518,San Pedro Mixtepec,Oaxaca,2024,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+538,CONANP-572/2024,Piedras Primeras,4.0,La Paz,Baja California Sur,2024,15.0,Persona moral,Península de Baja California y Pacífico Norte
+539,CONANP-573/2024,Jaguar del Norte-Tres Corrientes,1427.56,Sahuaripa,Sonora,2024,65.0,Persona moral,Noroeste y Alto Golfo de California
+540,CONANP-574/2024,Bienes Comunales Tlanchinol,727.88,Tlanchinol,Hidalgo,2024,15.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+541,CONANP-575/2024,Territorio Ancestral Indígena Tzucan Uxuxubi,2115.2801,Solidaridad,Quintana Roo,2024,15.0,Comunidad,Península de Yucatán y Caribe Mexicano
+542,CONANP-576/2024,Santa Catarina Juquila,37406.6216,Santa Catarina Juquila,Oaxaca,2024,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+543,CONANP-577/2024,La Bajada,755.122191,San Blas,Nayarit,2024,30.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+544,CONANP-578/2024,Reserva Ecológica Cerro Frío,1658.728924,Santiago Jocotepec,Oaxaca,2024,50.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+545,CONANP-579/2024,El Astillero,138.36356,Minatitlán,Colima,2024,15.0,Persona física,Occidente y Pacífico Centro
+546,CONANP-580/2024,Reserva Comunal San Pedro Acatlán,34622.03,San Juan Mazatlán,Oaxaca,2024,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+547,CONANP-581/2024,Ejido San Agustín,5632.875145,Tekax,Yucatán,2024,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+548,CONANP-582/2024,Rancho de Genaro,33.1,San Pedro Lagunillas,Nayarit,2024,50.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+549,CONANP-583/2024,Tudi Ha Tsethe,171.389667,Tepetitlán,Hidalgo,2024,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+550,CONANP-584/2024,El Dagui,342.0,Tepetitlán,Hidalgo,2024,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+551,CONANP-585/2024,Santa María Daxtho,134.989428,Tepetitlán,Hidalgo,2024,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+552,CONANP-586/2024,El Sabino Grande de Michimaltongo,112.369343,Tula de Allende,Hidalgo,2024,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+553,CONANP-587/2024,Cerro de San Mateo,105.0,Tepetitlán,Hidalgo,2024,99.0,Ejido (Propiedad privada),Centro y Eje Neovolcánico
+554,CONANP-588/2024,Reserva Comunal San Lorenzo Jilotepequillo,8332.34057,Santa María Ecatepec,Oaxaca,2024,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+555,CONANP-589/2024,Cerro Piedra Ventana,824.0,San Juan Mixtepec,Oaxaca,2024,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+556,CONANP-590/2024,Cerro La Sirena,1426.624916,San Juan Ozolotepec,Oaxaca,2024,99.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+557,CONANP-591/2024,El Rancho de las Cruces y Ecatitla,50.0,Zacatlán,Puebla,2024,15.0,Persona física,Planicie Costera y Golfo de México
+558,CONANP-592/2025,Huatulco,20051.71545,Santa María Huatulco,Oaxaca,2025,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+559,CONANP-593/2025,Sacpukenha,800.0,Tekax,Yucatán,2025,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+560,CONANP-594/2025,El Calvario,2074.98,Tapalapa,Chiapas,2025,25.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+561,CONANP-595/2025,El Jorullo,6821.115,Puerto Vallarta,Jalisco,2025,20.0,Ejido (Tierras de Uso Común),Occidente y Pacífico Centro
+562,CONANP-596/2025,2 Capomos,110.051234,Aldama,Tamaulipas,2025,15.0,Persona física,Planicie Costera y Golfo de México
+563,CONANP-597/2025,Tlachaloya,434.058224,Toluca de Lerdo,Estado de México,2025,15.0,Propiedad pública,Centro y Eje Neovolcánico
+564,CONANP-598/2025,El Sabino,142.7,Tula de Allende,Hidalgo,2025,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+565,CONANP-599/2025,Cerro Lobo,224.9351863,Tepeji del Río de Ocampo,Hidalgo,2025,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+566,CONANP-600/2025,Isla Toro,44.50445,Tamiahua,Veracruz,2025,50.0,Persona moral,Planicie Costera y Golfo de México
+567,CONANP-601/2025,Isla Burros,18.005444,Ozuluama de Mascareñas,Veracruz,2025,50.0,Persona moral,Planicie Costera y Golfo de México
+568,CONANP-602/2025,Cerro de la Muralla,11670.93631,Villa de Tututepec de Melchor Ocampo,Oaxaca,2025,50.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+569,CONANP-603/2025,El Chabacano,217.0,Tula de Allende,Hidalgo,2025,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+570,CONANP-604/2025,Plano interno inscrito bajo clave única catastral F16C38P003AD,78.553,Tizimín,Yucatán,2025,30.0,Persona física,Península de Yucatán y Caribe Mexicano
+571,CONANP-605/2025,Yum Kaax,5000.0,Puerto Morelos,Quintana Roo,2025,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+572,CONANP-606/2025,Pronavera,68.456942,Jalacingo,Veracruz,2025,50.0,Persona física,Planicie Costera y Golfo de México
+573,CONANP-607/2025,Ejido Chan Dzitnup,500.0,Tekax,Yucatán,2025,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+574,CONANP-608/2025,Cerro entre Nubes,5708.245876,San Gabriel Mixtepec,Oaxaca,2025,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+575,CONANP-609/2025,El Fresnito,102.5,Mascota,Jalisco,2025,15.0,Persona física,Occidente y Pacífico Centro
+576,CONANP-610/2025,Cañón y Picacho del Diablo,11000.0,San Felipe y Ensenada,Baja California,2025,15.0,Ejido (Tierras de Uso Común),Península de Baja California y Pacífico Norte
+577,CONANP-611/2025,Ejido Mocontún,1500.0,Tekax,Yucatán,2025,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+578,CONANP-612/2025,Las Guacamayas,575.0,San Pedro Sochiapam,Oaxaca,2025,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+579,CONANP-613/2025,La Muralla,8000.0,San Bartolo Yautepec,Oaxaca,2025,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+580,CONANP-614/2025,Teipan,3258.66,Santa María Ecatepec,Oaxaca,2025,30.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+581,CONANP-615/2025,Blanco Pitaya GVC,16.5,Teziutlán,Puebla,2025,99.0,Persona moral,Planicie Costera y Golfo de México
+582,CONANP-616/2025,La Joya del Conejo,13.231219,Tuxpan,Michoacán,2025,15.0,Persona física,Occidente y Pacífico Centro
+583,CONANP-617/2025,Zona de Conservación de Puerta del Mar,2.3,Benito Juárez,Quintana Roo,2025,15.0,Persona moral,Península de Yucatán y Caribe Mexicano
+584,CONANP-618/2025,Santuario del Señor de las Misericordias,90.186279,San Agustín de las Juntas,Oaxaca,2025,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+585,CONANP-619/2025,La Soledad de Solís,516.207486,Petatlán,Guerrero,2025,15.0,Persona física,Centro y Eje Neovolcánico
+586,CONANP-620/2025,La Campana,1900.388,La Concordia,Chiapas,2025,20.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+587,CONANP-621/2025,Cerro El Mirador,237.0,Maravilla Tenejapa,Chiapas,2025,60.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+588,CONANP-622/2025,El Cajón y La Joya,250.0,Tula de Allende,Hidalgo,2025,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+589,CONANP-623/2025,La Cueva del Tepezcuinte,118.4,Jitotol,Chiapas,2025,99.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+590,CONANP-624/2025,Área de Conservación de Prisma Basalticos,114.757863,Comondú,Baja California Sur,2025,15.0,Ejido (Tierras de Uso Común),Península de Baja California y Pacífico Norte
+591,CONANP-625/2025,Ejido El Susto,17.0,Singuilucan,Hidalgo,2025,15.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+592,CONANP-626/2025,Patzacata,1500.0,Uruapan,Michoacán,2025,20.0,Comunidad (Bienes comunales),Occidente y Pacífico Centro
+593,CONANP-627/2025,Cerro Mediano,1246.018271,Acatlán de Pérez Figueroa,Oaxaca,2025,50.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+594,CONANP-628/2025,El Picacho,530.0,San Bartolomé Quialana,Oaxaca,2025,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+595,CONANP-629/2025,La Campana,4000.0,Santiago Suchilquitongo,Oaxaca,2025,15.0,Comunidad (Bienes comunales),Frontera Sur Istmo y Pacífico Sur
+596,CONANP-630/2025,El Negro La Hierbabuena El Capulín y La Huerta,1553.419,San Felipe Tejalápam,Oaxaca,2025,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+597,CONANP-631/2025,La Colmena,587.64,San Pedro Ixtlahuaca,Oaxaca,2025,99.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+598,CONANP-632/2025,La Cañada,49.568557,Magdalena Contreras,CDMX,2025,45.0,Persona moral,Centro y Eje Neovolcánico
+599,CONANP-633/2025,El Silencio,139.976151,Suchiate,Chiapas,2025,15.0,Persona física,Frontera Sur Istmo y Pacífico Sur
+600,CONANP-634/2025,Petatlán del Corredor Biocultural - Montaña Baja,5310.26,Atlixtac,Guerrero,2025,99.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+601,CONANP-635/2025,Ixcateopan del Corredor Biocultural - Cañada,2058.73,Alpoyeca,Guerrero,2025,99.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+602,CONANP-636/2025,Zacualpan del Corredor Biocultural,3073.44,Tlapa de Comonfort,Guerrero,2025,99.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+603,CONANP-637/2025,Atlixtac del Corredor Biocultural- Montaña Baja,14649.28,Atlixtac,Guerrero,2025,99.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+604,CONANP-638/2025,San Pedro Aytec del Corredor Biocultural-Cañada,883.02,Huamuxtitlán,Guerrero,2025,99.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+605,CONANP-639/2025,Coyahualco del Corredor Biocultural-Cañada,1225.01,Huamuxtitlán,Guerrero,2025,99.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+606,CONANP-640/2025,Alpoyeca del Corredor Biocultural-Cañada,2270.234808,Alpoyeca,Guerrero,2025,99.0,Comunidad (Bienes comunales),Centro y Eje Neovolcánico
+607,CONANP-641/2025,Área de Conservación Ecológica El Rincón del Escorpión,859.95,Cocular,Guerrero,2025,99.0,Ejido (Tierras de Uso Común),Centro y Eje Neovolcánico
+608,CONANP-642/2025,Cristóbal Colón,3082.0,Calakmul,Campeche,2025,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+609,CONANP-643/2025,Parque Natural Sierra Mazati,1069.974226,Chiquilistlán,Jalisco,2025,99.0,Persona moral,Occidente y Pacífico Centro
+610,CONANP-644/2025,Alameda de San Cristóbal,91.955173,Zaragoza,San Luis Potosí,2025,30.0,Persona física,Noreste y Sierra Madre Oriental
+611,CONANP-645/2025,La Peñasquera,135.21,San Juan Guichicovi,Oaxaca,2025,30.0,Ejido (Parcela),Frontera Sur Istmo y Pacífico Sur
+612,CONANP-646/2025,Nubosque,71.723677,Jalacingo,Veracruz,2025,50.0,Persona física,Planicie Costera y Golfo de México
+613,CONANP-647/2025,Los Tucanes,521.27,Calakmul,Campeche,2025,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+614,CONANP-648/2025,La Lucha,1310.28,Calakmul,Campeche,2025,15.0,Ejido (Tierras de Uso Común),Península de Yucatán y Caribe Mexicano
+615,CONANP-649/2025,CEMEX Planta Valles,151.29095,Ciudad Valles,San Luis Potosí,2025,15.0,Persona moral,Noreste y Sierra Madre Oriental
+616,CONANP-650/2026,Samachique,4921.0,Guachochi,Chihuahua,2026,99.0,Ejido (Tierras de Uso Común),Norte y Sierra Madre Occidental
+617,CONANP-651/2026,Boyte´Tik,500.0,San Cristóbal de las Casas,Chiapas,2026,15.0,Ejido (Tierras de Uso Común),Frontera Sur Istmo y Pacífico Sur
+618,CONANP-652/2026,La Soledad de Solís II,354.632522,Petatlán,Guerrero,2026,15.0,Persona física,Centro y Eje Neovolcánico
+619,CONANP-653/2026,Lakam-Ha,22.376526,Cozumel,Quintana Roo,2026,25.0,Persona moral,Península de Yucatán y Caribe Mexicano
