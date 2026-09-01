@@ -13,8 +13,6 @@ Dado que la infraestructura está montada en Docker con la imagen `mongo:latest`
 * **Puerto:** `27017`
 * **Autenticación:** Sin usuario ni contraseña (configuración por defecto para desarrollo local).
 
-> **Nota:** La documentación detallada del proyecto y la metodología se encuentra en el archivo `Protocolo-de-Gestion-y-Procesamiento-Masivo-de-Datos-Ambientales.pdf`.
-
 ## 🛠️ Estructura del Proyecto
 
 * `main_ingesta.py`: Script principal en Python encargado de procesar los datasets y realizar la carga masiva hacia MongoDB.
